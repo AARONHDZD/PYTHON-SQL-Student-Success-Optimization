@@ -1,7 +1,7 @@
 # Student Success Optimization | SQL & Data Cleaning Project
 ---
 
-![Project Workflow](images/StudentSuccessOPT_Dataflow.png)
+![Project Workflow](StudentSuccessOPT_Dataflow.png)
 
 ---
 
